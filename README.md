@@ -44,5 +44,18 @@ Fizemos a análise dos dados para ter algumas visualizações do que nos espera,
 -  **Gráfico 2:** Vemos que os dados estão bem ordenados, não havendo erros lógicos, a relação é entre meses para lucro e consumo total, quanto menor o consumo maior o tempo para resultar lucro e quanto maior o consumo, menor o tempo para o lucro;
 -  **Gráfico 3:** A diferença entre o maior mês(Junho) e o menor mês(Outubro), é de apenas 47,61 Kwh, mostrando não ser uma diferença tão relevante;
 
-### Resultado
+### Resultado  
 
+O resultado obtido pelo modelo foi extremamente satisfatório, atingindo um valor de 99.99% de R², o que indica que o modelo explica quase toda a variabilidade dos dados utilizados. Apesar de os dados serem fictícios, eles seguem uma lógica realista, permitindo uma avaliação prática e bem fundamentada do problema.
+
+-   Precisão do Modelo:  
+A métrica de desempenho indica que o modelo é capaz de prever com alta precisão o número de meses necessários para o cliente atingir o lucro após a transição para energia solar.
+
+-  Qualidade dos Dados:  
+Os dados foram cuidadosamente preparados, sem valores faltantes ou inconsistentes, garantindo que o modelo fosse treinado com informações confiáveis.
+
+-  Limitações:  
+Por serem dados simulados, os resultados devem ser interpretados dentro desse contexto. Em aplicações reais, variações externas como mudanças nos preços de energia, incentivos governamentais e padrões de consumo podem alterar os resultados.
+
+### Conclusão:  
+O projeto demonstra que a energia solar pode ser uma solução financeiramente viável, além de ser ambientalmente sustentável. Ele serve como base para análises mais aprofundadas, podendo ser adaptado para cenários reais com dados coletados diretamente de consumidores.
